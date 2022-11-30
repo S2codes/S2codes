@@ -13,4 +13,4 @@
 ### About me
 Subhankar Sarkar
 [![Watch the video](https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/master/workflows/transparent_keubey.gif?raw=true)](https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/master/workflows/transparent_keubey.gif?raw=true)
-<img align="right" alt="Octocat" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F1899338-Yogocat-Animation&psig=AOvVaw2rpAT1D2uyTGWs1CEUyi67&ust=1669877316477000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDTzPSn1fsCFQAAAAAdAAAAABAE">
+<img align="right" alt="Octocat" width="400" src="https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif">
