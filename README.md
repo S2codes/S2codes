@@ -1,6 +1,6 @@
 ### Statistics:
-![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TithiB-del&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TithiB-del&show_icons=true&theme=merko)
+![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=S2codes&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=S2codes&show_icons=true&theme=merko)
 
 ###Tech Stack
 ![Java](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
