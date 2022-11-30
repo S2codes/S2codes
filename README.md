@@ -14,7 +14,7 @@
 Subhankar Sarkar
 [![Watch the video](https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/master/workflows/transparent_keubey.gif?raw=true)](https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/master/workflows/transparent_keubey.gif?raw=true)
 
-<h1 align="center">Hi 👋, I'm Subhanakr Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Subhankar Sarkar</h1>
 <h3 align="center">A Self-taught Front-end developer from India</h3>
 
 
