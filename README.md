@@ -13,9 +13,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **My Portfolio**
-- 🌱 I’m currently learning **Python,DSA, React**
-- 💬 Ask me about **HTML,Javascript, PHP, Anime**
+- 🔭 I’m currently working on **Robotics**
+- 🌱 I’m currently learning **Python,DSA, React, React Native, IOT, Machine Learning**
+- 💬 Ask me about **HTML,Javascript, PHP, Ardunio, NodeMcu, IOT**
 - ♥ To build Frontend UI
 - ⚡ I love to work on admin panels and diffrent types of Projects
 - 📫 How to reach me: Connect me with Social Media
