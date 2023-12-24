@@ -1,12 +1,11 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
+[![MasterHead](https://camo.githubusercontent.com/4204b48db24bd412a96f9810a3ac98ba08a6b1c838981b810add6ac5345438e3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a333230302f666f726d61743a776562702f302a64653049646955536f4a5477677379732e676966)]
 
 
 ### About me
-<h1 align="center">Hi 👋, I'm Subhankar Sarkar</h1>
-<h3 align="center">A Self-taught Full Stack Web developer from India</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> <h1 align="center">Hi 👋, I'm Subhankar Sarkar</h1> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> 
+<h3 align="center">A Self-taught Full Stack Web developer from India</h3>
 
 <img align="right" alt="Octocat" width="400" src="https://octodex.github.com/images/Fintechtocat.png">
 
