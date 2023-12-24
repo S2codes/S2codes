@@ -3,8 +3,11 @@
 
 
 ### About me
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> <h1 align="center">Hi 👋, I'm Subhankar Sarkar</h1> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> 
+<h1 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+	Hi 👋, I'm Subhankar Sarkar
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> 
+</h1> 
 <h3 align="center">A Self-taught Full Stack Web developer from India</h3>
 
 <img align="right" alt="Octocat" width="400" src="https://octodex.github.com/images/Fintechtocat.png">
@@ -12,11 +15,11 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **Robotics**
+- 🔭 I’m currently working on **Next.JS**
 - 🌱 I’m currently learning **Python,DSA, React, React Native, IOT, Machine Learning**
-- 💬 Ask me about **HTML,Javascript, PHP, Ardunio, NodeMcu, IOT**
-- ♥ To build Frontend UI
-- ⚡ I love to work on admin panels and diffrent types of Projects
+- 💬 Ask me about **Frontend, Javascript, MERN, PHP, NodeJs,  Ardunio, NodeMcu, IOT**
+- ♥ To build Web App
+- ⚡ I love to work on diffrent types of Software & Hardware Projects
 - 📫 How to reach me: Connect me with Social Media
 
 ### Socials & their links:
@@ -26,8 +29,8 @@
   <a href="https://www.linkedin.com/in/subhankar-sarkar-4898271b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/dkdsubhankar/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/beetabie//">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/S2skr0">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
